@@ -20,6 +20,18 @@
             "longDescription": "Studio render of my latest song, now available for download!",
             "name": "The Ever",
             "price": 10.0
+        },
+        "test-item-2": {
+            "assets": {
+                "downloadPng": "assets/items/theever/cover.jpg",
+                "squarePng": "assets/items/theever/cover.jpg"
+            },
+            "description": "Fuck you willow",
+            "downloadLink": "placeholder",
+            "downloadable": false,
+            "longDescription": "Fucking cunt whore bitch ass pussy dick",
+            "name": "Test Item 2",
+            "price": 24.99
         }
     }
 }
