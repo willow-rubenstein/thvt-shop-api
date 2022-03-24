@@ -1,2 +1,25 @@
 {
+    "categoryData": {
+        "categories": {
+            "Art": [],
+            "Clothing": [],
+            "Music": [],
+            "Other": [],
+            "Software": []
+        }
+    },
+    "items": {
+        "theever": {
+            "assets": {
+                "downloadPng": "assets/items/theever/cover.jpg",
+                "squarePng": "assets/items/theever/cover.jpg"
+            },
+            "description": "Studio render of my latest song",
+            "downloadLink": "placeholder",
+            "downloadable": true,
+            "longDescription": "Studio render of my latest song, now available for download!",
+            "name": "The Ever",
+            "price": 0.0
+        }
+    }
 }
