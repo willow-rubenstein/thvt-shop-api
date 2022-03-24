@@ -16,7 +16,7 @@
             },
             "description": "Studio render of my latest song",
             "downloadLink": "placeholder",
-            "downloadable": true,
+            "downloadable": false,
             "longDescription": "Studio render of my latest song, now available for download!",
             "name": "The Ever",
             "price": 0.0
