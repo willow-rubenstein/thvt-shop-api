@@ -9,23 +9,8 @@
         }
     },
     "items": {
-        "theever": {
-            "assets": {
-                "downloadPng": "assets/items/theever/cover.jpg",
-                "squarePng": "assets/items/theever/cover.jpg"
-            },
-            "description": "Studio render of my latest song",
-            "downloadLink": "placeholder",
-            "downloadable": false,
-            "longDescription": "Studio render of my latest song, now available for download!",
-            "name": "The Ever",
-            "price": 10.0
-        },
         "test-item-2": {
-            "assets": {
-                "downloadPng": "assets/items/theever/cover.jpg",
-                "squarePng": "assets/items/theever/cover.jpg"
-            },
+            "img": "",
             "description": "Fuck you willow",
             "downloadLink": "placeholder",
             "downloadable": false,
