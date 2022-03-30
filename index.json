@@ -10,7 +10,6 @@
     },
     "items": {
         "test-item-2": {
-            "img": "",
             "description": "Fuck you willow",
             "downloadLink": "placeholder",
             "downloadable": false,
