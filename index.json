@@ -12,7 +12,7 @@
             "name": "Test Item 2",
             "price": 24.99
         },
-        "change-id": {
+        "change-id-2": {
             "name": "Testing testing testing",
             "price": 19.99,
             "description": "This is kinda stupid",
