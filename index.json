@@ -18,6 +18,13 @@
             "description": "This is kinda stupid",
             "longDescription": "Just fucking ignore this lmao. It's a test item. Hopefully, it gets pushed to github automatically",
             "img": ""
+        },
+        "test-3": {
+            "name": "Test Item 3",
+            "price": 19.99,
+            "description": "Yet another test item!",
+            "longDescription": "This is another test item! If it shows up in my shop, I think I made it!!",
+            "img": "https://ec.crypton.co.jp/img/special/vocaloid/img_MIKU_us.png"
         }
     }
 }
