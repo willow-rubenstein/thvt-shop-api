@@ -1,20 +1,13 @@
 {
     "categoryData": {
         "categories": {
-            "Art": [
-                "test3"
-            ],
-            "Clothing": [],
-            "Music": [],
-            "Other": [],
-            "Software": []
+            "Art": [],
+            "Clothing": []
         }
     },
     "items": {
         "test-item-2": {
             "description": "Fuck you willow",
-            "downloadLink": "placeholder",
-            "downloadable": false,
             "longDescription": "Fucking cunt whore bitch ass pussy dick",
             "name": "Test Item 2",
             "price": 24.99
