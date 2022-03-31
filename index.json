@@ -25,6 +25,12 @@
             "description": "Yet another test item!",
             "longDescription": "This is another test item! If it shows up in my shop, I think I made it!!",
             "img": "https://ec.crypton.co.jp/img/special/vocaloid/img_MIKU_us.png"
+        },
+        "test-5": {
+            "name": "Yet Another Test Item!",
+            "price": 19.99,
+            "description": "This is another test item",
+            "longDescription": "This is yet another test item, because willow is fucking stupid idk if they actually are or not, but let's go with that yeah"
         }
     }
 }
