@@ -13,7 +13,7 @@
             "price": 24.99
         },
         "test-2": {
-            "name": "Test item 2",
+            "name": "Testing testing testing",
             "price": 19.99,
             "description": "This is kinda stupid",
             "longDescription": "Just fucking ignore this lmao. It's a test item. Hopefully, it gets pushed to github automatically",
