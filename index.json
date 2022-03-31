@@ -31,6 +31,12 @@
             "price": 19.99,
             "description": "This is another test item",
             "longDescription": "This is yet another test item, because willow is fucking stupid idk if they actually are or not, but let's go with that yeah"
+        },
+        "testing-from-pyexe": {
+            "name": "Testing From Py.Exe!",
+            "price": 30.0,
+            "description": "This is just a test item that I want to send from py.exe",
+            "longDescription": "Yet another test item! Not for sale because there's literally no value to it!"
         }
     }
 }
