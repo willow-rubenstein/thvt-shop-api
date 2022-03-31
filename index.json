@@ -1,7 +1,9 @@
 {
     "categoryData": {
         "categories": {
-            "Art": [],
+            "Art": [
+                "test"
+            ],
             "Clothing": [],
             "Music": [],
             "Other": [],
