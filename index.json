@@ -43,7 +43,7 @@
             "price": 25.0,
             "description": "This is the first-ever merch drop from ThighhighVT!",
             "longDescription": "This is the first ever merch drop from ThighhighVT! You all decided what this shirt says (which has not been decided at the time of this being added to the catalog)",
-            "options": [],
+            "options": ["sizes"],
             "img": ""
         }
     }
