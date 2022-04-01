@@ -125,15 +125,15 @@ class cmdlineTool:
             if self.customInput("Use options? (y/n)").lower() != "n":
                 x = ""
                 item['options'] = []
-                options = ['sizes', 'colors']
+                options = ['size', 'color']
                 for i in range(len(options)-1):
                     x += f"{i+1}. {options[i]}\n"
                 # Fix this to actually loop later.
                 match (self.customInput(f"What options would you like to add?\n\n{x}")):
                     case 1:
-                        item["options"].append("sizes")
+                        item["options"].append("size")
                     case 2:
-                        item["options"].append("colors")
+                        item["options"].append("color")
                 clear()
             clear()
             if self.customInput(f"Does this look okay to you? (y/n)\n\n{json.dumps(item, indent=4)}").lower() != "n":

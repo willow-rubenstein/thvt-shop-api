@@ -6,44 +6,12 @@
         }
     },
     "items": {
-        "test-item-2": {
-            "description": "Fuck you willow",
-            "longDescription": "Fucking cunt whore bitch ass pussy dick",
-            "name": "Test Item 2",
-            "price": 24.99
-        },
-        "change-id-2": {
-            "name": "Testing testing testing",
-            "price": 19.99,
-            "description": "This is kinda stupid",
-            "longDescription": "Just fucking ignore this lmao. It's a test item. Hopefully, it gets pushed to github automatically",
-            "img": ""
-        },
-        "test-3": {
-            "name": "Test Item 3",
-            "price": 19.99,
-            "description": "Yet another test item!",
-            "longDescription": "This is another test item! If it shows up in my shop, I think I made it!!",
-            "img": "https://ec.crypton.co.jp/img/special/vocaloid/img_MIKU_us.png"
-        },
-        "test-5": {
-            "name": "Yet Another Test Item!",
-            "price": 19.99,
-            "description": "This is another test item",
-            "longDescription": "This is yet another test item, because willow is fucking stupid idk if they actually are or not, but let's go with that yeah"
-        },
-        "testing-from-pyexe": {
-            "name": "Testing From Py.Exe!",
-            "price": 30.0,
-            "description": "This is just a test item that I want to send from py.exe",
-            "longDescription": "Yet another test item! Not for sale because there's literally no value to it!"
-        },
         "thvt-shirt-1": {
             "name": "The \"April 1st\" Shirt",
             "price": 25.0,
             "description": "This is the first-ever merch drop from ThighhighVT!",
             "longDescription": "This is the first ever merch drop from ThighhighVT! You all decided what this shirt says (which has not been decided at the time of this being added to the catalog)",
-            "options": ["sizes"],
+            "options": ["size"],
             "img": ""
         }
     }
